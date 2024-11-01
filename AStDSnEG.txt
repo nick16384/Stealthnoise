@@ -1,0 +1,161 @@
+=== BEGINN DES AStDSnEG ===
+
+§ 01 (Grundlagen & Anwendung) Ein Stealthnoise-Server, bzw. ein Derivat kann ein prinzipiell beliebig großes Servernetzwerk, bzw. ein Server sein, auf welchem Minecraft als Multiplayer-Service weltweit angeboten werden kann. Es muss vorher eine offizielle Anerkennung des Stealthnoise-Gründers gegeben haben. Der Server bzw. das Netzwerk sind dabei innerhalb Deutschlands zu behalten. Unter "Netzwerk" sind hierbei nicht die Spieler mit einbezogen, sondern ausschließlich die Hardware- / Softwaregruppe, die den Service anbietet gemeint.
+Jede separate Minecraft-Welt, die auf derselben Stealthnoise-Server-Hardware, bzw. Software zur Verfügung steht, ist prinzipiell als separater Server zu betrachten. Das AStDSnEG zusammen mit der GSHV gilt für jede dieser Welten unabhängig voneinander und muss nicht zwangshaft für alle dieser Welten gelten.
+(02) Alle Referenzen zu "Server" und
+"Stealthnoise-Server" sind untereinander synonym.
+(03) Als Stealthnoise-Server, bzw. ein Derivat gilt ein solcher Minecraft-Server, der von allen derzeit und in den letzten 6 Monaten aktiven Spielern als solcher anerkannt wurde. Notwendig sind zudem mindestens 3 Spieler mit regelmäßigem Kontakt zueinander (Zeitperiode ohne Kontakt < 5 Monate).
+(04) Ein Stealthnoise-Server, bzw. ein Derivat kann nur als solcher aberkannt werden, wenn alle Mitglieder gegen eine Mitgliedschaft gestimmt haben. Sie dürfen dabei nicht zu dieser Tat gezwungen werden.
+Folgende Ausnahmen gelten:
+§ 03 Abs. 01 Satz 1 Nr. 3 AStDSnEG
+§ 01 Abs. 06 Satz 3 AStDSnEG
+§ 07 Abs. 01 Satz 2 AStDSnEG
+(05) Ein Stealthnoise-Server, bzw. ein Derivat ist auf unbestimmte Zeit ein solcher, und folgt immer dem aktuellsten Gesetzesstand, sobald dieser ausgerufen und offiziell bekannt gegeben wurde.
+(06) Wenn ein Server unter dem AStDSnEG steht, muss er in vollem Umfang dem Gesetz Acht geben und ihm folgen. Auch ist ein vollumfängliches Folgen der GSHV nötig. Eine partielle Beteiligung ist ausgeschlossen. Ist dies nicht (mehr) unsetzbar, so darf der Server nicht mehr unter dem AStDSnEG und der GSHV stehen.
+(07) Alle Paragraphen des AStDSnEG und der GSHV sind nicht über dem echten Gesetz des Serverbetreibenden, bzw. des Spielers anzuwenden. Verstößt ein Gesetzesteil (in gewissen Umständen) gegen das echte Gesetz, so muss dieser unverzüglich abgeändert oder gelöscht werden, wodurch die Rechtslage wieder im Einklang mit dem echten Gesetz steht.
+(08) Wenn ein Teil des Gesetzes unklar formuliert ist, oder die Wortwahl keine genaue Aussage treffen lässt, ist nach klarem Menschenverstand zu handeln und der Teil nicht wortwörtlich zu verstehen. Bleibt der Inhalt weiter unklar, so ist dieser ungültig, bis er das nächste Mal modifiziert oder entfernt wird.
+(09) ein Paragraph, der einen anderen entkräftet, muss dies explizit aussagen.
+(10) Das Betreten des Servers erfordert eine uneingeschränkte Mitgliedschaft. Ausgenommen sind Spieler, die das erste Mal den Server betreten.
+(11) Alle Zeitangaben im AStDSnEG und der GSHV sind, wenn nicht näher erläutert, nach realer Zeitrechnung in der Zeitzone der MEZ/CET (UTC+1) zu interpretieren.
+
+§ 02 (Mitgliedschaft):
+(01) Als Spieler, bzw. Mitglieder gelten alle Minecraft-Java Accounts zusammen mit deren physikalischen Besitzern, die jemals für eine beliebig kurze Zeitperiode auf dem Server zur Nutzung des Minecraft-Service waren. Die Abgrenzung der Zählweise erfolgt durch die Serverlogs / Chats (... joined / left the game.)
+(02) Das AStDSnEG ist zusammen mit der GSHV auf alle Spieler des Servers anzuwenden.
+(03) Die Regeln innerhalb des AStDSnEG und der GSHV gelten ausschließlich für die Spieler in Minecraft. Sie sind nicht über dem echten Gesetz auf den physikalischen Besitzer des Spielers anzuwenden.
+(04) Alle Spieler des Servers, die unter dem AStDSnEG und der GSHV stehen, sind gleich zu behandeln. Keines der Mitglieder darf bevor- oder benachteiligt werden, weder durch andere Spieler, noch durch das Gesetz.
+Serveradministratoren nach
+§ 02 Abs. 07 AStDSnEG.
+sind als einzige durch das Gesetz zusätzlich privilegiert.
+(05) Ein Spieler, welcher derzeit unter einem Bann steht, verfügt über die sog. Eingeschränkte Mitgliedschaft. In dieser behält er die meisten Grundrechte, verliert jedoch das Recht der Abstimmung.
+(06) Ein Spieler, der unter einem dauerhaften Bann steht, verliert seine Mitgliedschaft und somit auch alle seine Rechte.
+(07) Als Serveradministrator gelten diejenigen Mitglieder, die direkt zum betreiben des Servers notwendig sind. Sie verfügen über gesonderte Rechte nach
+§ 06 Abs. 01 AStDSnEG.
+(08) Mitglieder eines Servers sind verflichtet, immer über die Gesetzeslage informiert und mit dieser einverstanden zu sein. Andernfalls ist ein Betreten des Servers ausgeschlossen. Spieler, die den Server zum ersten Mal betreten, sollten sich ebenfalls zuvor um die aktuelle Rechtslage informiert haben, um Justizkomplikationen kurz darauf zu vermeiden.
+
+§ 03 (Folgen der Misshandlung):
+(01) Ist ein Gesetzesverstoß festgestellt, so...
+1. ...soll am ehesten die Folge angewandt werden, die der Absatz für den konkreten Fall beschreibt.
+2. ...soll im Falle keiner Angabe einer Folge des Absatzes durch Vorschlag und Abstimmung aller Mitglieder entschieden werden, was passieren muss. Der Angeklagte darf hierbei nicht mit abstimmen. Außerdem ist ein Verstoß gegen das AStDSnEG im Strafprozess und als Folge nicht möglich.
+3. ...darf der Server nicht mehr unter dem AStDSnEG stehen, wenn
+§ 03 Abs. 01 Satz 1 Nr. 1 AStDSnEG
+und
+§ 03 Abs. 01 Satz 1 Nr. 2 AStDSnEG
+(mit weniger als 50% der Dafür-Stimmen für den Vorschlag mit den meisten Dafür-Stimmen)
+fehlgeschlagen sind.
+(02) Strafen auf dem Server beschränken sich auf die folgenden:
+a) 1. Gegenstandsstrafe (Ab- oder Übergabe gestohlener, gehackter, oder anderweitig illegal erhaltener Gegenstände) in beliebigem rationalen Ausmaße
+b) 2. Geldstrafe (in dem anerkannten Währungssystem) von bis zu drei Vierteln des Geldes im Besitz des zu Bestrafenden.
+c) 3. Temporärer Bann (Ausschluss an der Beteiligung des Servergeschehens für einen Spieler auf eine bestimmte Zeit) von bis zu 6 Monaten
+d) 4. Dauerhafter Bann (Ausschluss an der Beteiligung des Servergeschehens für einen Spieler auf unbefristete Zeit)
+(03) Wenn kein Gesetzesbruch gegeben ist, jedoch ein Spieler gegen einen anderen Klagen möchte, so ist dies dem Kläger freigestellt. Vorraussetzung ist keine Verletzung eines anderen Gesetzesteils, und eine Abstimmung gemäß § 04 AStDSnEG über den vom Kläger vorgelegten Strafvorschlag. Das Stimmrecht entfällt während der Wahl für den Angeklagten. Wichtig ist auch insbd. die Einhaltung des Strafschutzrechts nach
+§ 05 Abs. 06 AStDSnEG.
+(04) Straftaten, nach denen länger als 1 Jahr nicht gefahndet wurde, verfallen und sind nicht mehr anklagbar.
+(05) Die nach einem Strafprozess erteilte Strafe ist nicht widerrufbar, verminderbar, oder in anderer Weise manipulierbar. Für dauerhafte Schäden, die rechtmäßig entstanden sind, wird gesetzlich keine Haftung übernommen.
+(06) Sollte ein Strafprozess dermaßen lange dauern, dass die Spielqualität anderer Spieler direkt durch den Tatverdächtigen beeinflusst wird, darf der Tatverdächtige zwecks der Ermittlungen in Untersuchungshaft in Form eines temporären Banns gestellt werden. Nach Beendigung des Prozesses muss dieser temporäre Bann aufgehoben werden, wenn die Strafe keinen solchen vorsieht.
+(07) Ein Strafprozess darf nicht länger als 1 Monat andauern.
+(08) Unwissenheit der Rechtssituation von Angeklagten darf diese nicht vor Strafen schützen oder diese abmildern lassen.
+
+§ 04 (Abstimmungen):
+(01) Es gelten für jede Abstimmung auf dem Server die 5 Wahlgrundsätze:
+a) 1. Allgemein: Jedes Mitglied verfügt nach
+§ 05 Abs. 02 AStDSnEG
+über ein Wahlrecht.
+b) 2. Unmittelbar: Es darf keine Instanz der Wahl zwischen einem Mitglied und dem Abstimmungsvorschlag liegen.
+c) 3. Frei: Jeder darf sein eigenes Votum abgeben, ohne dafür bestraft oder anderweitig vorher unter Druck gesetzt worden zu sein.
+d) 4. Gleich: Jedes Mitglied verfügt über die gleiche Stimmkraft; Keine Stimme darf mehr oder weniger als eine andere gelten.
+e) 5. Geheim: Jedes Mitglied darf verlangen, dass alle Mitglieder ihre Stimme nicht verraten dürfen. Dieser Wahlgrundsatz ist nicht notwendig, jedoch ist das Ablehnen eines beliebigen Antrags zur Geheimhaltung von einem Mitglied nicht zulässig.
+(02) Bei einer Abstimmung muss jedes Mitglied vorher informiert worden sein. Zudem muss genügend Zeit zum eigenen Bedenken gegeben worden sein. Andernfalls gilt die Abstimmung als ungültig.
+(03) Eine Veränderung das Abstimmungsvorschlags muss rechtzeitig vor der Auszählung der Stimmen kommuniziert werden, d.h.
+§ 04 Abs. 02 AStDSnEG 
+muss seine Gültigkeit behalten.
+(04) Lokalisierte Wahlen, in denen weniger als die Hälfte aller Mitglieder teilnehmen, sind von allen oben genannten Wahlkriterien freigestellt. Es wird jedoch weiterhin zu der fairstmöglichen Wahl motiviert.
+(05) Jede gesetzlich angetriebene Wahl muss die Kriterien in
+§04 AStDSnEG für eine faire Wahl erfüllen. Zusätzlich zu den Wahlgrundsätzen ist bei einer gesetzlichen Wahl (wenn nicht näher angegeben) eine Wahlbeteiligung von 100% und ein Stimmergebnis von mindestens 95% Dafür-Stimmen notwendig, damit diese als erfolgreich gilt.
+(06) Wenn ein Mitglied einen Monat nach der Bekanntgabe des Vorschlags keine Stimme abgegeben hat, dürfen die Stimmen ohne die des betroffenen Mitglieds ausgezählt werden.
+(07) Ein Ändern einer Stimme nach Abgabe oder Nachreichen ist nicht gestattet.
+
+§ 05 (Grundrechte):
+(01) Alle Rechte, die in den nachfolgenden Absätzen deklariert sind, gelten uneingeschränkt jederzeit für jedes Mitglied. Zusätzlich sind (soweit anwendbar) die Rechte des deutschen Grundgesetzes (GG) für jedes Mitglied in der virtuellen Minecraft-Welt gültig. Ausgenommen sind u.A. politisch / wirtschaftlich relevante Artikel.
+Spieler, die nach
+§ 02 Abs. 06 AStDSnEG
+vollständig als Mitglieder ausgeschlossen wurden, verfügen nicht über die Grundrechte.
+Ein Missachten der Grundrechte ist strafbar.
+(02) Abstimmungsrecht: Jedes Mitglied hat das Recht, ein Votum bei einer Abstimmung abzugeben.
+Außerdem muss jedes Mitglied über jegliche Wahl, die sie betrifft direkt informiert werden.
+Wer unter der engeschränkten Mitgliedschaft nach
+§ 02 Abs. 05 Satz 1 AStDSnEG
+steht, verfügt nicht über das Abstimmungsrecht.
+Zudem verfügen im Strafprozess angeklagte Spieler nach
+§ 03 Abs. 01 Satz 1 Nr. 2 AStDSnEG
+und
+§ 03 Abs. 03 Satz 3 AStDSnEG temporär nicht über das Stimmrecht.
+(03) Grundstücksrecht: Sobald ein Spieler ein Grundstück (Zusammenhängender Bereich von X und Z-Koordinaten, die vom Bauhöhenlimit bis zum ersten Cave-Layer herabreichen) für sich beansprucht und modifiziert hat und kein anderer Spieler innerhalb einer realen Woche nach dem Anspruch einen Einwand eingesprochen hat, darf dieses Grundstück nicht ohne Erlaubnis des Besitzers fremdmutig modifiziert, zerstört, oder in irgendeiner anderen Art und Weise dauerhaft verändert werden. Könnte bei einem Update der Weltgenerierung eine Veränderung des Grundstücks hervorgerufen werden, muss der Besitzer damit einverstanden sein. Der Grundstücksbesitzer darf jederzeit ein Zurücksetzen des Servers auf ein Backup beantragen, sobald eine Modifikation zu einem Schaden geführt hat, der nicht durch den Besitzer selbst innerhalb von 12 Stunden Spielzeit wieder rückgängig gemacht werden kann, oder nach einem mehrfach aufgetretenem ähnlichen Schaden mit demselben Motiv. Dies darf jedoch nicht zu einem noch größeren Schaden bei einem beliebigen anderen Spieler führen.
+Die Entkräftung dieses Rechtes ist begrenzt und temporär im Rahmen der GSHV nötig und daher zulässig.
+(04) Eigenprogressionsrecht:
+Ein Spieler darf in keiner Art und Weise darin eingeschränkt oder verhindert werden, seine eigenen Ziele zu erreichen, es sei denn, es handelt sich bei einem der Ziele oder dem Weg dahin um einen Gesetzesverstoß.
+(05) Konsolenbefehlsschutzrecht:
+Ohne die Einverständnis betroffener Spieler ist es jedem Spieler verboten, Konsolenbefehle des OP-Levels 2 oder höher zu nutzen, um Spieler in irgendeiner Weise zu modifizieren (Inventar, Position, Online-Status, etc.)
+(06) Strafschutzrecht:
+Kein Mitglied darf übermäßig oder mehrfach hintereinander durch denselben Grund bestraft werden. Zudem dürfen nur die Strafen in
+§ 03 Abs. 02 AStDSnEG
+verwendet werden.
+(07) Misstrauensantragsrecht:
+Jedes Mitglied darf einen Misstrauensantrag an einen beliebigen Serveradministrator stellen, über welchen abgestimmt wird, ob der Administrator weiterhin sein Privileg behält. Kommt es zu mehr als 80% der Dafür-Stimmen für ein Absetzen, ist der betroffene Administrator sofortig nur noch ein normales Mitglied. Vorraussetzung für einen Misstrauensantrag ist, dass es sich nicht um den einzigen verbleibenden Administrator handelt. Es kann in diesem Fall ein neuer Administrator gewählt, und der alte abgesetzt werden.
+(08) Informationsrecht:
+Jedem Mitglied müssen zuverlässig, direkt und unverzüglich, auch ohne Nachfrage folgende Informationen und Änderungen mitgeteilt werden:
+a) Der aktuelle Gesetzesstand, insbesondere Änderungen jeglicher Art
+b) Anstehende Wahlen, die ein Votum des Betroffenen erwünschen
+Bei Nachfrage des Mitglieds darf keine Instanz den Informationsfluss verhindern.
+
+§ 06 (Sonderrechte):
+(01) Zusätzlich zu den Grundrechten verfügt der Administrator des Servers, oder die Administratoren des Servers über folgende Rechte:
+a) Verwaltungsrecht: Jeder Serveradministrator darf, soweit es das Gesetz explizit erfordert, auf folgende Konsolenbefehle für den Straffall zugreifen:
+1. /kick
+2. /ban
+3. /pardon
+4. /clear
+5. /give
+Der Administrator darf nicht darüber hinaus mehr Befehle ausführen, als es für das Gesetz notwendig ist.
+
+§ 07 (Währungssystem):
+(01) Damit der Server unter dem AStDSnEG stehen kann, ist exakt ein etabliertes Währungssystem notwendig. Mehrere oder keine Währungssysteme erfordern einen Ausschluss aus dem AStDSnEG.
+Auch sind nicht reproduzierbare Währungen nicht zulässig.
+(02) Als Währung wird eine universale Bezahlmethode definiert, die anstelle von Gegenstands- oder Dienstleistungshandel fungiert.
+(03) Um Werteschwankungen zu vermeiden, muss ab Währungseinführung ein Wert an Währung pro Kopf festgelegt werden. Dieser Wert wird einmalig an jedes Mitglied ausgezahlt.
+(04) Eine Währungsreform erfordert eine Wahl mit 100% Dafür-Stimmen. Zunächst muss das neue System besprochen, danach abgestimmt, das ehemalige Geld aus dem Umlauf gebracht, und den Spielern ein Ersatz mit demselben Teilwert erbracht werden. Dauert dieser Vorgang länger als 6 Monate, muss die alte Währung vorerst erneut eingeführt werden.
+(05) Eine gesetzliche Gelderstattung ist aufgrund der Inflationsgefahr nicht möglich.
+(06) Eine zentrale Geldverwaltung und Aufbewahrung ist nicht vorgesehen. Der gesamte Geldumlauf soll sich stattdessen in den Händen der Mitglieder befinden.
+(07) Geldfälschung oder eigenständige, nicht autorisierte Geldproduktion ist nicht gestattet und wird mit...
+1. ...dem sofortigen Entfernen des Falschgeldes und
+2. ...einer Geldstrafe des Fälschers an alle Mitglieder von 1/3 seines Geldes
+bestraft. Zusätzlich muss der Fälscher einen 1-monatigen Bann abwarten.
+(08) Beweisbar absichtliche Geldvernichtung wird mit einem temporären Bann des Vernichters von 1 Monat bestraft. Zudem muss das Geld nachproduziert werden.
+(09) Beim Währungsaustausch von Teilbeträgen ist das Runden auf ganze Geldbeträge erforderlich. Ist das Geld dabei ungleich aufgeteilt, muss eine Partei mehr Geld, dafür die andere eine Ersatzleistung erhalten. Das Verhandeln geschieht auf Parteiebene.
+(10) Beim Handel ist das Zahlen mit der entsprechenden Währung stark erwünscht. Nur selten sollte auf direktes Gegenstands- / Dienstleistungshandeln zurückgegriffen werden.
+(11) Jährlich ist das Nachzählen der gesamten Währung im Umlauf aller aktiven Mitglieder notwendig. Sollte der Betrag um mehr als 10% von dem erwarteten abweichen, muss...
+1. ...bei einem Geldüberschuss die Fahndung nach Geldfälschung gestartet werden. Das überschüssige Geld muss, wenn möglich, vom Fälscher entnommen werden. Andernfalls muss ein gleicher Anteil des Geldes von allen Mitgliedern entzogen werden, sodass der erwartete Geldwert wieder erreicht wird.
+2. ...bei verminderter Geldmenge das Geld nachproduziert werden. Falls es sich zudem um eine Reduktion der Gesamtgeldmenge von mehr als 30% handeln sollte, ist eine Fahndung nach absichtlicher Geldvernichtung erforderlich.
+(12) Ist die Reproduktion des Geldes notwendig, werden maximal 2 Mitglieder gewählt, die diese Tätigkeit erfüllen. Sie sind dann rechtmäßig dazu befugt, genau die Geldmenge wieder herzustellen, an der es gerade mangelt.
+§ 07 Abs. 07 AStDSnEG entfällt während dieser Zeit für diejenigen, die das Geld neu herstellen.
+
+§ 08 (Präservation):
+(01) Das Ändern des AStDSnEG ist prinzipiell nicht zulässig. Unter folgenden Umständen ist dies jedoch gestattet:
+§ 01 Abs. 07 Satz 2 AStDSnEG
+§ 01 Abs. 08 Satz 2 AStDSnEG
+(02) Das Hinzufügen neuer Gesetzesteile in das AStDSnEG ist erlaubt, solange diese nicht im Widerspruch mit den Bisherigen stehen. Erforderlich ist eine Abstimmung aller Mitglieder des Servers mit sowohl 100% Wahlbeteiligung (keine Enthaltung), als auch 100% Dafür-Stimmen.
+Der neue Gesetzesteil darf dafür weder gegen die bisherigen verstoßen, noch einen Teil des AStDSnEG entkräften.
+
+=== ENDE DES AStDSnEG ===
+
+Siehe andere Notiz für GSHV
+
+Noch hinzufügen:
+- Mojang EULA muss akzeptiert worden sein
+- Daten, die zwar gespeichert, aber nie an Dritte weitergeleitet werden:
+IP-Adresse, Spielername, Mojang-UUID (Identifikationsnummer vom Spieler),
+Datum & Uhrzeit jeglicher Tätigkeiten des Spielers (im worst Case)
+- Meldepflicht von Verstößen; Strafbar bei Unterlassen
+- Fälschung beweiserheblicher Daten verboten
+Gute Wörter / Formulierungen:
+...behalten ... das Recht vor ...
+...nach ... Ermessen zu handeln

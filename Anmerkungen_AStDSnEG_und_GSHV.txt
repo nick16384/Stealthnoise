@@ -1,0 +1,29 @@
+Das "Allgemeingültige Stealthnoise-und-Derivaten-Servernetzwerk-Einheitsgesetz" (AStDSnEG) regelt sämtliche Tätigkeiten von Spielern auf dem Stealthnoise-, bzw. dessen Derivatenserver. Die Gesetze sind mit folgenden Bezeichnungen untergliedert:
+1. Gesetz [Name] bzw. [Abkürzung]
+2. Art(ikel) / Paragraph(§) XXX
+3. Abs(atz) XXX:
+Einzeln anzuwendender Inhalt
+4. Satz XXX:
+Satznummer des Absatzes
+5. Nr. XXX:
+Indexnummer bei einer Aufzählung von Satzenden
+
+Das AStDSnEG legt eine Basis für die GSHV. Sie legt grundlegende Ordnungsstrukturen bereit, auf denen die GSHV aufbaut. Beide sind obligatorisch für das jeweils andere, haben jedoch keine Referenzen zueinander, d.h. Modifikationen der einen Seite haben keinen Einfluss auf die andere.
+
+Die Grundlegende Serverhandlungsverordnung
+(GSHV) regelt auf Basis des AStDSnEG expliziter genaue Verhaltensregeln auf den Servern, die in § 01 AStDSnEG beschrieben sind.
+
+Der Zusammenschluss aus AStDSnEG und GSHV heißt:
+Systematische,
+Tranzparente,
+Einheitliche,
+Akzeptierte, (aus)
+Legodia,
+TecBlockMaster,
+HerrDerSchatten (und)
+Nick_16384 (bestehende),
+Ordnungsschaffende,
+Immerwährende,
+Server-
+Einigung
+(S.T.E.A.L.T.H.N.O.I.S.E.)

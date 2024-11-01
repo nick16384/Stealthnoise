@@ -1,0 +1,38 @@
+=== BEGINN DES GSHV ===
+
+§ 01 (Verhaltensregeln):
+(01) Gewaltausübung, Beleidigungen, Provokationen und Drohungen auf andere Spieler sind, egal in welcher Form jedem Mitglied untersagt.
+Bei wiederholtem Auftreten muss der Täter 1/3 seines Geldes an die von ihm Betroffenen zahlen und mit einem temporären Bann von 3 Monaten rechnen.
+Verstößt dies zusätzlich gegen das deutsche StGB, muss der Täter stattdessen einen temporären Bann von 6 Monaten abwarten.
+Wenn es zu einer Wiederholungstat 3 mal insgesamt kommt, gilt ein dauerhafter Bann für den Täter.
+(02) Inhalt, egal auf welche Weise vermittelt, der nicht als jugend- bzw. kinderfreundlich klassifiziert werden kann, ist verboten (dazu gehören u.A. Gewaltdarstellungen, Horror, Drogen, Pornografie und andere obszöne oder unangemessene Inhalte). Die Strafe kann abgemildert werden, wenn der Angeklagte einen Beweis hervorbringen kann, dass besagter Inhalt keine Absicht war.
+Ansonsten muss der Angeklagte, auch ohne klare Beweislage der Absicht, alle betroffenen Inhalte (u.A. Bauwerke) entfernen und mit einem temporären Bann von 3 Wochen rechnen.
+(03) Verbreitung oder Diskussion politischer / religiöser Themen in jeglicher Form ist nicht gestattet. Wenn trotz Ermahnung weiter diskutiert / verbreitet wird, müssen die beteiligten Parteien mit einem temporären Bann von 3 Wochen und ggf. mit einem Abriss / einer Entfernung aller betroffenen Bauwerke und sonstigen Inhalten rechnen.
+(04) Betrug in jeglicher Form ist zwischen Spielern und nach Außerhalb nicht gestattet. Wenn nachverfolgbar, muss der Vorgang rückgängig gemacht werden. Zudem muss der Betrüger, insofern er in Minecraft war, mit einem temporären Bann von 3 Monaten und einer Geldstrafe von 1/3 seines Geldes an den Betrogenen rechnen.
+Ist der Vorgang nicht nachverfolgbar und der Betrüger in Minecraft, muss dieser alle seine Gegenstände an den Betrogenen abgeben und mit einem dauerhaften Bann rechnen.
+Ist der Betrüger nicht in Minecraft, wird dem Betroffenen (soweit möglich) der Schaden zurückerstattet.
+Wenn dem Betrogenen die oberen Strafen nicht sinnvoll erscheinen, kann er einen alternativen Vorschlag einreichen, für den abgestimmt wird.
+(05) Der Handel mit Echtgeld gegen Gegenstände im Minecraft-Server ist nicht zulässig. Wenn nachverfolgbar, muss dieser Vorgang rückgängig gemacht werden. Andernfalls werden die Handelspartner für 2 Monate temporär gebannt.
+(06) Ein Grundstücksbesitzer darf nicht zu seinem eigenen Vorteil das Passieren anderer Spieler durch das Grundstück einschränken oder verhindern.
+Wenn nach dreifacher Ermahnung mit jeweils 2 Tagen Abstand die Sperre nicht aufgelöst wurde, wird darüber Abgestimmt, wie das Grundstück am Besten wieder durchgehbar gemacht wird und dieser Vorschlag umgesetzt, sobald dieser mehr als 90% der Stimmen erreicht. Das Grundstücksrecht wird für diese Zeit kurzzeitig für den Grundstücksbesitzer entkräftet. Zudem muss der Täter bei zweifacher Wiederholung mit einem temporären Bann von 3 Monaten und einer Geldstrafe von 1/5 seines Geldes rechnen.
+(07) Wer 5 beweisbar absichtliche Straftaten insgesamt begangen hat, wird dauerhaft gebannt.
+(08) Das Senden von wiederholenden Nachrichten, Betrugsmaschen und Werbung ist nicht erlaubt. Zudem ist das übermäßige Verbreiten von wiederholenden, sinnlosen, oder vom Spielgeschehen unabhängigen Inhalten verboten.
+Wenn nach einer Ermahnung die Verbreitung der Inhalte nicht eingestellt ist, werden die Täter für 1 Monat gebannt. Nach dreifacher Wiederholung ist ein dauerhafter Bann die Folge.
+(09) Die Kommunikation privater Daten (Addressen, Passwörter, Bilder, etc.) ist nicht gestattet, auch nicht von einem selbst.
+(10) Inhalt, der nicht direkt mit dem Spielgeschehen zusammenhängt ist nicht mit in das Spiel einzubringen.
+(11) Auf dem Grundstück darf beliebig Material abgebaut werden, jedoch sollte außerhalb dessen (abgesehen von Erzen & Lava) immer dafür gesorgt werden, dass das Landschaftsbild nicht dauerhaft drastisch verändert wird.
+Eine Veränderung, die offensichtlich gegen diese Richtlinie verstößt und Reparaturarbeiten von 5 oder mehr Stunden erfordert bringt dem Täter eine Geldstrafe von 1/4 seines Geldes an diejenigen, die die Reparaturarbeiten betreiben. Der Täter kann die Reparaturarbeiten auch selbst betreiben, um sich vor der Geldstrafe in Form von Eigenarbeit zu schonen. Bei doppelter Wiederholung kommt es zu einem 2-monatigen Bann.
+(12) Modifikationen, die innerhalb und/oder außerhalb von Minecraft durch spezielle Software und Hardware das Spielerlebnis zum eigenen Vorteil drastisch verändern, sind nicht erlaubt. Dazu zählen u.A. auch Mods, Texture Packs mit unzulässiger Tranzparenz (X-Ray) und gehackte Clients, wie z.B. "Wurst". Mods, die als zulässig eingestuft wurden, finden sich in der Datei "Zulaessige_Mods.txt". Ressource Packs sind ebenfalls grundsätzlich erlaubt, wenn sie nicht die obigen Kriterien aufweisen. Gleiches gilt für Shader.
+
+(13) Die übermäßige, ohne Grund erfolgende Auslastung des Servers für länger als 20 Minuten ist strafbar. Es muss vom Ersteller mit ggf. einem Abriss / einer Entfernung betroffener Strukturen gerechnet werden. Außerdem erfolgt nach Wiederholung ein 2 Monate langer Bann.
+(14) 
+
+§ 02 (Gültigkeit):
+(01) Für die Nutzung des GSHV ist ebenfalls die Nutzung des AStDSnEG notwendig.
+
+=== ENDE DES GSHV ===
+
+Zukünfigt hinzuzufügen:
+- Server auslasten verboten
+- Mods / Autoclicker
+- Strafen auflisten

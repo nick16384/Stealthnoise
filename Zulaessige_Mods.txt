@@ -1,0 +1,14 @@
+Mods, die gemäß
+§ 01 Abs. 12 Satz 3 GSHV
+auf einem Stealthnoise-Server für Minecraft verwendet werden dürfen:
+
+Mods:
+1. OptiFine
+2. Sodium
+3. Iris Shaders
+
+Modpacks:
+1. Fabulously Optimized
+
+Hinzufügen:
+Minimap ohne Zusatzfunktionen
